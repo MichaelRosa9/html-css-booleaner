@@ -80,6 +80,9 @@ h4 {
   color: grey;
 }
 
+.correlated-links {
+  margin-bottom: 40px;
+}
 .correlated-links div {
   font-size: 25px;
   padding: 20px 100px 100px 10px;
