@@ -10,18 +10,42 @@ header img {
 }
 
 main {
-  width: 80%;
+  width: 70%;
   margin: auto;
+}
+title-article {
+  margin-bottom: 20px;
+}
+h1 {
+  margin-bottom: 10px;
+}
+
+h5 {
+  margin: 0px;;
+}
+
+.subhead {
+  color: gray;
 }
 
 .link-main-page {
   color: #47ACE4;
+  text-decoration: none;
 }
 
-.title p {
-  font-size: 10px;
+.subhead p {
+  font-size: small;
   margin-top: 0px;
 }
+
+.photo-tim p {
+  font-size: small;
+}
+
 .hilighted-text {
   background-color: yellow;
+}
+
+ul {
+  padding-left: 10px;
 }
